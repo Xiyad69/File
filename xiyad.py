@@ -10,7 +10,7 @@ try:
     import requests
 except:
     os.system('pip install requests')
-    os.system('xdg-open https://facebook.com/Xiyad.4040.XD/')
+    os.system('xdg-open https://facebook.com/Xiyad.XD/')
 import requests
 try:
     if sys.argv[1]=='update':
