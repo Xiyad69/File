@@ -10,7 +10,7 @@ try:
     import requests
 except:
     os.system('pip install requests')
-    os.system('xdg-open https://facebook.com/Xiyad.XD/')
+    
 import requests
 try:
     if sys.argv[1]=='update':
@@ -19,7 +19,6 @@ except:
     pass
 os.system('rm -rf file.so')
 os.system('git pull')
-os.system('xdg-open https://t.me/Referincome3838_bot?start=r05872133875')
 #os.system('clear')
 #exit('\033[91;1m🄲🄾🄼🄼🄰🄽🄳 🄾🄵🄵\n🄲🄾🄼🄼🄰🄽🄳 🄾🄵🄵\n🄲🄾🄼🄼🄰🄽🄳 🄾🄵🄵\n🄲🄾🄼🄼🄰🄽🄳 🄾🄵🄵\033[1;37m ')
 bit = platform.architecture()[0]
