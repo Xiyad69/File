@@ -1,2 +1,2 @@
-os system import
+import os
 import file
