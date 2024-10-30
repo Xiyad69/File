@@ -1,2 +1,2 @@
 import os
-import file
+import FILE
