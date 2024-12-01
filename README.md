@@ -7,16 +7,16 @@
 [Click To Buy This Tool](https://wa.me/+8801610525142)
 
 ## FEATURES
-- **Feature 1**: Login
-- **Feature 2**: Seprate Ids
-- **Feature 3**: Duplicate Remover
-- **Feature 4**: Remove Use Ids
-- **Feature 5**: File Divider
-- **Feature 6**: Remove Stylish Name Ids
-- **Feature 7**: Remove Cookies & Token
-- **Feature 8**: ADMIN CONTACT
-- **Feature 9**: HOW TO USE DUMP TOLL
-- **Feature 0**: MORE OPTION 
+- ** 1**: Login
+- ** 2**: Seprate Ids
+- ** 3**: Duplicate Remover
+- ** 4**: Remove Use Ids
+- ** 5**: File Divider
+- ** 6**: Remove Stylish Name Ids
+- ** 7**: Remove Cookies & Token
+- ** 8**: ADMIN CONTACT
+- ** 9**: HOW TO USE DUMP TOLL
+- ** 0**: MORE OPTION 
 ## :rocket: Installation For 64bit
 
 ```bash
